@@ -45,6 +45,14 @@ After reviewing our research, we created multiple primary and secondary user per
 
 Our synthesized design vision determined that Stroll needed to should foster a **sense of belonging** by helping people feel more connected to their community, should encourage users to **get outside** in support of physical and mental wellness, and help users who are passionate about their community **easily create and share content** with other users.
 
+### Defining Features
+
+Explore:
+
+Create:
+
+Connect:
+
 ### Mid-fidelity Design and Journey Map
 
 This is an example of one of my mid-fidelity prototype/user flows. This flow focuses on our "Creator" pathway, in which a user is uploading their own content to a "Pin" or point of interest users can interact with to explore and learn more about their neighborhood.
